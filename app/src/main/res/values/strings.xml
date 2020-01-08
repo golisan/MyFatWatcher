@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">MyFatWatcher</string>
+    <string name="app_name">FatWatcher</string>
+    <string name="heute">Heute</string>
+    <string name="bonus">Bonus</string>
+    <string name="verbraucht">Aktuell verbraucht</string>
+    <string name="uebrig">Übrig</string>
+
 </resources>
